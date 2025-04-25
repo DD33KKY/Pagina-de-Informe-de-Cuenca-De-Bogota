@@ -55,19 +55,8 @@ python analisis_hidrologico.py
    - Tablas estadísticas con medidas de tendencia central y dispersión
    - Análisis de frecuencias absolutas y relativas, simples y acumuladas
 
-### Visualizador de gráficos
 
-Para una mejor experiencia de visualización, puede utilizar la interfaz gráfica incluida:
 
-```
-python visualizar_graficos.py
-```
-
-Esta interfaz le permite:
-- Seleccionar la variable a visualizar (Caudal, Temperatura, Humedad, Evaporación, Precipitación o Comparativo)
-- Elegir el tipo de visualización (Mensual, Trimestral, Anual, Estadísticas, Intervalos, etc.)
-- Obtener información contextual sobre cada tipo de gráfico o tabla
-- Ver los resultados de forma interactiva
 
 ## Estructura de los gráficos y tablas
 
