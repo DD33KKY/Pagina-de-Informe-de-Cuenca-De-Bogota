@@ -1,7 +1,18 @@
 # Análisis Hidrológico de Regímenes
-## Como se ve la Pagina
-Para hacer el uso de visibilidad de la pagina es solo nececesario descargar todo el repositorio y abrir unicamente el archivo **informe_hidrologico.html** con esto incluira el informe detallado de la cuenca del rio de bogota con todas sus variables descritas A continuacion **Importante!!**
+"""
+📄 Requerimiento de Visualización
 
+Para acceder al informe hidrológico, se requiere:
+
+- Descargar la totalidad del repositorio.
+- Abrir el archivo `informe_hidrologico.html` con un navegador web.
+
+Este archivo incluye el informe detallado de la cuenca del río Bogotá,
+con todas las variables y análisis relevantes ya integrados.
+
+⚠️ Nota importante:
+No es necesario ejecutar código adicional. Solo se debe abrir el archivo HTML mencionado para visualizar el contenido completo.
+"""
 Este proyecto genera gráficos y tablas estadísticas para el análisis de regímenes de:
 - Caudal
 - Temperatura
