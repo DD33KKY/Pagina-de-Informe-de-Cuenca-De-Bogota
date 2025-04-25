@@ -90,3 +90,6 @@ Todos estos análisis ayudan a comprender mejor la distribución temporal de las
 ## Gráfico comparativo
 
 El proyecto incluye un gráfico comparativo que muestra en un solo panel los regímenes mensuales de todas las variables analizadas (caudal, temperatura, humedad, evaporación y precipitación), facilitando la comparación visual de los patrones estacionales de cada variable y la identificación de posibles relaciones entre ellas. 
+
+## Ver Pagina
+Para hacer el uso de visibilidad de la pagina es solo nececesario descargar todo el repositorio y abrir unicamente el archivo **informe_hidrologico.html** con esto incluira el informe detallado de la cuenca del rio de bogota con todas sus variables descritas anteriormente
